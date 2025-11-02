@@ -5,16 +5,12 @@ This repository contains the test case report for the **Hishabee Business App**,
 
 ## Contents
 
-1. **Test Plan.pdf**  
-   A comprehensive document detailing the test approach, scope, environment, schedule, deliverables etc. for the **Hishabee Business App Manual Testing** project.
-
-2. **Hishabee Business App Manual Testing.xlsx**  
+1. **Hishabee Business App Manual Testing.xlsx**  
    Contains detailed test cases, execution results, and bug tracking across four organized sheets:
    - **Test Summary**: An overview of the testing process, including key metrics like total test cases, pass/fail counts, and execution progress.  
    - **Inventory Management**: A structured list of test cases for **Inventory Management** module with detailed steps, expected outcomes, and actual results. 
    - **Sales Management**: A structured list of test cases for **Sales Management** module with detailed steps, expected outcomes, and actual results.
    - **Bug Report**: A detailed log of issues found during testing, including screenshots, priority & severity levels, and status.  
-   - **Mindmap**: A representation of test coverage and strategy in a clear, hierarchical structure.
 ### Description of Excel Sheets  
 
 1. **Test Summary**  
