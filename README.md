@@ -136,3 +136,21 @@ This repository contains the test case report for the **Hishabee Business App**,
      - Proper updates when sales are added or edited.
      - Handling scenarios with no recorded sales.
 	   and more.
+	   ## How to Use  
+
+### Clone the Repository  
+
+```bash  
+git clone https://github.com/Asif1005/Hishabee_App_Manual_Testing.git 
+cd Hishabee-Business-App-Manual-Testing 
+```
+## OR
+
+### Download the ZIP
+
+## Getting Started
+
+To run the test cases, ensure the Hishabee Business App is installed. Follow the testing steps outlined in the **Hishabee_App_Manual_Testing.xlsx** file for comprehensive guidance.
+
+# HAPPY TESTING !!!
+
